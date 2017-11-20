@@ -2,6 +2,8 @@
 
 Dit is een Angular2 startproject. Dit project is een standaard Angular CLI project, uitgebreid met een nodejs server die single HTML page aanbiedt. De server heeft geen API; hiervoor is een externe server nodig, zoals bijvoorbeeld deze[node-mongodb-server](https://github.com/avansinformatica/node-mongodb-server).
 
+Deze Angular starterpack draait op [Heroku](https://angular-avans-starter.herokuapp.com).
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
