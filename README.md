@@ -22,5 +22,5 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Heroku
 Je kunt deze Angular applicatie gemakkelijk op Heroku of een andere cloudprovider deployen. Je hebt dan ook een externe API server nodig. Dit kan een nodejs server zijn, maar ook een ASP.NET server op Azure. 
 
-Let op: je configureert de URL van de externe server in het bestand [environment.prod.ts](./src/app/environment/environment.prod.ts). 
+Let op: je configureert de URL van de externe server in het bestand [environment.prod.ts](https://github.com/avansinformatica/angular-starterpack/blob/master/src/environments/environment.prod.ts). 
 
