@@ -1,6 +1,6 @@
-# Mongo Express Angular2 Nodejs starterpack
+# Angular2 starterpack
 
-Dit is een Angular2 startproject. Dit project is een standaard Angular CLI project, uitgebreid met een nodejs server die single HTML page aanbiedt. De server heeft geen API; hiervoor is een externe server nodig, zoals bijvoorbeeld deze[node-mongodb-server](https://github.com/avansinformatica/node-mongodb-server).
+Dit is een Angular2 startproject. Dit project is een standaard Angular CLI project, uitgebreid met een nodejs server die de single HTML page aanbiedt. De server heeft geen API; hiervoor is een externe server nodig, zoals bijvoorbeeld deze [node-mongodb-server](https://github.com/avansinformatica/node-mongodb-server).
 
 Deze Angular starterpack draait op [Heroku](https://angular-avans-starter.herokuapp.com).
 
