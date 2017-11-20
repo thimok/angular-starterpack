@@ -24,3 +24,5 @@ Je kunt deze Angular applicatie gemakkelijk op Heroku of een andere cloudprovide
 
 Let op: je configureert de URL van de externe server in het bestand [environment.prod.ts](https://github.com/avansinformatica/angular-starterpack/blob/master/src/environments/environment.prod.ts). 
 
+## Referenties
+- [Deploy Angular 4 app with Express to heroku](https://medium.com/@ervib/deploy-angular-4-app-with-express-to-heroku-6113146915ca)
